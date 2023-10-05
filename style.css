@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #a9907e;
+  position: relative;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Bebas Neue", serif;
+}
+
+div {
+  font-family: "Poppins", sans-serif;
+}
+
+footer {
+  color: black;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  flex-grow: 1;
+  text-align: center;
+}
